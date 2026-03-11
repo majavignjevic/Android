@@ -1,0 +1,23 @@
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="JavadocGenerationManager">
+    <option name="OUTPUT_DIRECTORY" value="$USER_HOME$/Downloads" />
+    <option name="OPTION_DOCUMENT_TAG_USE" value="true" />
+    <option name="OPTION_DOCUMENT_TAG_AUTHOR" value="true" />
+    <option name="OPTION_DOCUMENT_TAG_VERSION" value="true" />
+    <option name="OTHER_OPTIONS" value="-classpath &quot;C:\Users\majav\AppData\Local\Android\Sdk\platforms\android-34\android.jar;C:\Users\majav\.jdks\ms-21.0.10\caches\modules-2\files-2.1\com.google.code.gson\gson\2.13.1\291e19613797898e0b2ba95553c874c1d07e00c1\gson-2.13.1.jar&quot; -sourcepath &quot;D:\Faks\Android\Caffe\app\src\main\java&quot; -subpackages com -package -Xdoclint:none --ignore-source-errors" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_21" default="true" project-jdk-name="ms-21" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.250299072265625" />
+      </ProjectState>
+    </option>
+  </component>
+</project>
